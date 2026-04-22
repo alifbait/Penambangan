@@ -1,11 +1,28 @@
-# Welcome to your Jupyter Book
+# Penambangan Data
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
 
-Check out the content pages bundled with this sample book to see more.
+Nama: Alif Baiatur Ridhwan El Habibie <br>
+NIM : 240411100156 <br>
+Prodi : Teknik Informatika <br>
+kelas : Penamabang data IF4B <br>
+Email : alifbaiatur@gmail.com <br>
 
-```{tableofcontents}
-```
+## Pengertian Penambangan Data
+Secara teknis, data mining merupakan proses yang menggunakan pendekatan statistik, matematika, serta kecerdasan buatan untuk menggali dan menemukan informasi, pengetahuan, maupun pola tertentu dari kumpulan data berukuran besar. Pola yang dihasilkan dapat berupa aturan bisnis, hubungan antarvariabel, tren, korelasi, hingga model prediksi.
+
+Sebagian besar literatur menjelaskan data mining sebagai proses kompleks untuk menemukan pola yang valid, baru, bermanfaat, serta mudah dipahami dari data yang tersimpan dalam basis data terstruktur. Data tersebut biasanya tersusun dalam baris berdasarkan kategori, urutan tertentu, serta variabel yang bersifat kontinu. 
+
+Metode Penambangan Data
+Secara umum, terdapat beberapa metode utama dalam data mining, yaitu:
+
+### Association
+Metode berbasis aturan yang digunakan untuk menemukan hubungan atau keterkaitan antarvariabel dalam suatu dataset. Biasanya berbentuk pernyataan sederhana “if–then”. Teknik ini sering digunakan untuk menganalisis pola pembelian pelanggan sehingga perusahaan dapat menyusun strategi pemasaran dan sistem rekomendasi yang lebih efektif.
+
+### Classification
+Salah satu metode paling umum dalam data mining yang bertujuan memprediksi kategori atau kelas dari suatu objek berdasarkan karakteristik tertentu.
+
+### Regression
+Teknik yang digunakan untuk menganalisis hubungan antara variabel dependen dan variabel independen. Contohnya adalah memprediksi penjualan produk berdasarkan harga dan tingkat pendapatan pelanggan.
+
+### Clustering
+Metode untuk mengelompokkan data menjadi beberapa kelompok berdasarkan kemiripan atribut. Contoh penerapannya adalah segmentasi pelanggan yang membagi konsumen ke dalam beberapa grup dengan karakteristik serupa.
